@@ -1,0 +1,11 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# Project file C:/Users/aayus/Downloads/uart/Temp.mpf was not found.
+# Unable to open project.
+# Loading project uart
+# Compile of uart.sv was successful with warnings.
+# Load canceled
+# Compile of uart.sv was successful.
+# Compile of uart_test.sv was successful with warnings.
+# Compile of uart.sv was successful.
+# Compile of uart_test.sv was successful with warnings.
+# 2 compiles, 0 failed with no errors. 
